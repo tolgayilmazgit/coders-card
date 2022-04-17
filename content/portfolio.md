@@ -2,7 +2,7 @@
 projects:
   - finishDate: ""
     buttons:
-      - name: WATCH
+      - name: tesst
         icon: external-link
         url: https://vimeo.com/user136138760
       - name: Read the code
