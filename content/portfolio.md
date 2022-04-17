@@ -1,33 +1,17 @@
 ---
 projects:
-  - finishDate: ""
+  - finishDate: 2022-03-31T21:00:00.000Z
     buttons:
-      - name: tesst
+      - name: WATCH
         icon: external-link
-        url: https://vimeo.com/user136138760
-      - name: Read the code
-        icon: github
-        url: https://github.com
-      - name: Try demo app
-        icon: external-link
-        url: https://google.com
-    technologies:
-      - name: React
-      - name: Redux
-      - name: TypeScript
-    name: My Awesome Project 1
-    startDate: ""
+        url: https://vimeo.com/673219630
+    technologies: []
+    name: Migros Kurban Bayramı Ürün Fiyat İletişimi
+    startDate: 2022-06-30T21:00:00.000Z
     previewImage: /uploads/project-1.jpg
-    label: Mobile
-    role: Sed eu enim auctor, auctor ipsum id, finibus metus. Donec vel efficitur
-      mi. Donec at justo nunc. Nullam vitae urna ut leo vehicula sodales.
-      Vestibulum ut dui laoreet, consequat mi a, aliquam quam. Vivamus ac felis
-      non lectus dapibus pulvinar. Nulla imperdiet maximus mi vel lacinia. Sed
-      sagittis velit sed arcu hendrerit sollicitudin. Quisque faucibus bibendum
-      egestas.
-    previewNote: In vel tellus ac quam elementum vulputate. Proin quis eros in elit
-      luctus tempor. Aenean in hendrerit metus. Donec congue enim a dui
-      efficitur, a pellentesque.
+    label: Desktop
+    role: ""
+    previewNote: Migros kurban bayramı ürün fiyat iletişimi
     description: ""
   - finishDate: 2020-09-14T15:15:33.756Z
     buttons:
