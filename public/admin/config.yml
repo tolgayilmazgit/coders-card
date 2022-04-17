@@ -330,11 +330,13 @@ collections:
                   label: "Project start date",
                   name: "startDate",
                   widget: "datetime",
+                  required: false,
                 }
               - {
                   label: "Project finish date",
                   name: "finishDate",
                   widget: "datetime",
+                  required: false,
                 }
               - {
                   label: "Preview note",
@@ -352,11 +354,13 @@ collections:
                   label: "Project description",
                   name: "description",
                   widget: "markdown",
+                  required: false,
                 }
               - {
                   label: "My role in the project",
                   name: "role",
                   widget: "markdown",
+                  required: false,
                 }
               - label: "Link buttons"
                 name: "buttons"
@@ -393,5 +397,6 @@ collections:
               - label: "Technologies"
                 name: "technologies"
                 widget: "list"
+                required: false
                 fields:
                   - { label: "Name", name: "name", widget: "string" }
