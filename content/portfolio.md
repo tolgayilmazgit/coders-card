@@ -1,6 +1,6 @@
 ---
 projects:
-  - finishDate: 2021-04-10T18:23:43.772Z
+  - finishDate: ""
     buttons:
       - name: WATCH
         icon: external-link
@@ -16,7 +16,7 @@ projects:
       - name: Redux
       - name: TypeScript
     name: My Awesome Project 1
-    startDate: 2020-09-23T12:10:23.756Z
+    startDate: ""
     previewImage: /uploads/project-1.jpg
     label: Mobile
     role: Sed eu enim auctor, auctor ipsum id, finibus metus. Donec vel efficitur
@@ -28,12 +28,7 @@ projects:
     previewNote: In vel tellus ac quam elementum vulputate. Proin quis eros in elit
       luctus tempor. Aenean in hendrerit metus. Donec congue enim a dui
       efficitur, a pellentesque.
-    description: Nullam vel eros non arcu feugiat lobortis. Quisque a ultrices
-      neque. Maecenas a ultrices sapien, sit amet aliquam est. Nunc porttitor
-      lorem purus, non venenatis magna suscipit a. Nullam pellentesque, lacus a
-      accumsan pretium, justo massa commodo nulla, ut vulputate elit justo eget
-      neque. Donec aliquet dui quis nisi mattis, nec ultricies nulla elementum.
-      Aenean in nisl eget metus elementum aliquam.
+    description: ""
   - finishDate: 2020-09-14T15:15:33.756Z
     buttons:
       - name: Mockups
