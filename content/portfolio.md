@@ -6,7 +6,7 @@ projects:
         icon: external-link
         url: https://vimeo.com/673219630
     technologies: []
-    name: Migros Kurban Bayramı Ürün Fiyat İletişimi
+    name: Migros Kurban Bayramı
     startDate: 2022-06-30T21:00:00.000Z
     previewImage: /uploads/project-1.jpg
     label: Desktop
