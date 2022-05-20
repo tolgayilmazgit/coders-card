@@ -2,7 +2,7 @@
 firstName: Tolga
 lastName: Yılmaz
 avatar: /uploads/img.jpg
-position: Motion Graphic Designer
+position: Motion Graphics Designer
 phone: ""
 email: tolgayilmaz.k@gmail.com
 city: Istanbul
