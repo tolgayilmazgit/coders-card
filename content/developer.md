@@ -8,11 +8,11 @@ email: tolgayilmaz.k@gmail.com
 city: Istanbul
 country: Turkey
 isFreelancer: true
-cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
+cv: https://drive.google.com/file/d/1jQ9SU8RiZinxG0QG__vg5Z0F6aj3Qt3S/view?usp=sharing
 socialMedia:
   instagram: https://www.instagram.com/tolgayilmaz.k/
   behance: https://www.behance.net/tolgayilmazk/
   linkedin: https://www.linkedin.com/in/tolgayilmaz12
   reddit: https://www.reddit.com/
-  vimeo: https://vimeo.com/user136138760
+  vimeo: https://vimeo.com/showcase/9532811
 ---
