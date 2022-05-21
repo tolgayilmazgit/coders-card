@@ -31,15 +31,15 @@ skills:
   - name: HTML
     category: Other
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649802067/HTML5_logo_and_wordmark_bl6jqa.svg
-    value: 4
+    value: 3
   - name: CSS
     category: Other
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649802133/800px-CSS3_logo_and_wordmark.svg_yg0udr.png
-    value: 4
+    value: 3
   - name: Javascript
     category: Other
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649802171/Unofficial_JavaScript_logo_2_mxu1jn.svg
-    value: 4
+    value: 3
   - name: Python
     category: Other
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649802206/Python-logo-notext_v1igcf.svg
