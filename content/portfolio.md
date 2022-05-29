@@ -4,9 +4,9 @@ projects:
     buttons:
       - name: WATCH
         icon: external-link
-        url: https://vimeo.com/673219630
+        url: https://vimeo.com/showcase/9532811/video/710959719
     technologies: []
-    name: Migros Kurban Bayramı
+    name: Flormar Ruj Filmi
     startDate: 2022-06-30T21:00:00.000Z
     previewImage: /uploads/project-1.jpg
     label: Desktop
