@@ -8,7 +8,7 @@ email: tolgayilmaz.k@gmail.com
 city: Istanbul
 country: Turkey
 isFreelancer: true
-cv: https://drive.google.com/file/d/1wDVbq0sXaBWVm0padK14svRZ6uoh3Tn2/view?usp=sharing
+cv: https://drive.google.com/file/d/11LvdFtm5TEQQRTWq3q_Lqr3y2O3rExph/view?usp=sharing
 socialMedia:
   instagram: https://www.instagram.com/tolgayilmaz.k/
   behance: https://www.behance.net/tolgayilmazk/
