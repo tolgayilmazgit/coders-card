@@ -1,12 +1,18 @@
 ---
 workExperience:
+  - startDate: 2022-06-19T14:45:52.447Z
+    finishDate: 2022-06-19T14:45:52.469Z
+    jobName: Motion Graphics Designer
+    jobDescription: "I'm working as a Motion Graphics
+      Designer                                                     "
+    companyName: CUE ISTANBUL
   - jobName: Motion Graphics Designer
     jobDescription: This is the first company I've worked for in-house. I mainly do
       TV commercials. Also, sometimes VFX for series on platforms like Netflix
       and Gain.
     companyName: "ABT Istanbul Post Production "
     startDate: 2020-01-01T20:06:48.583Z
-    finishDate: 2022-04-12T22:47:57.074Z
+    finishDate: 2022-06-09T22:47:57.074Z
   - jobName: Freelance Consultant
     jobDescription: I have worked freelance jobs throughout my education life. I
       still continue to do it.
