@@ -1,8 +1,11 @@
 ---
-description: "#### Hello, I'm a Motion Designer based in Istanbul. I have an
-  interest in everything that includes *technology*, *art*, and *design*. This
-  naturally led me to this profession. Basically, I'm a geeky guy who loves to
-  learn."
+description: "**As an Istanbul-based Motion Designer, I'm fueled by a boundless
+  curiosity for all things tech, art, and design. I've always been drawn to
+  creative expression and innovative thinking, so it's no surprise that I chose
+  this profession. With a geeky streak and a relentless drive to learn, I'm
+  constantly exploring new ways to elevate my craft and stay ahead of the curve.
+  Let's collaborate and bring your ideas to life with a touch of originality and
+  uniqueness that only I can bring to the table!**"
 skills:
   - name: Adobe After Effects
     category: Software
