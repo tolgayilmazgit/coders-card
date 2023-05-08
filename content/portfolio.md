@@ -11,7 +11,9 @@ projects:
     previewImage: /uploads/project-1.jpg
     label: Desktop
     role: ""
-    previewNote: Migros kurban bayramı ürün fiyat iletişimi
+    previewNote: <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/Sagg08DrO5U" frameborder="0"
+      allow="autoplay; encrypted-media" allowfullscreen></iframe>
     description: ""
   - finishDate: 2020-09-01T15:15:33.756Z
     buttons:
