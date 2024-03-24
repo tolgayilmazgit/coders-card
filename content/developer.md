@@ -1,14 +1,14 @@
 ---
 firstName: Tolga
 lastName: Yılmaz
-avatar: /uploads/img.jpg
+avatar: www.google.com
 position: Motion Graphics Designer
 phone: ""
-email: tolgayilmaz.k@gmail.com
+email: s
 city: Istanbul
 country: Turkey
-isFreelancer: true
-cv: https://drive.google.com/file/d/11LvdFtm5TEQQRTWq3q_Lqr3y2O3rExph/view?usp=sharing
+isFreelancer: false
+cv: https://www.google.com
 socialMedia:
   instagram: https://www.instagram.com/tolgayilmaz.k/
   behance: https://www.behance.net/tolgayilmazk/
