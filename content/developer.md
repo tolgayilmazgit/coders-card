@@ -11,8 +11,8 @@ isFreelancer: false
 cv: https://www.google.com
 socialMedia:
   instagram: ""
-  behance: https://www.behance.net/tolgayilmazk/
-  linkedin: https://www.linkedin.com/in/tolgayilmaz12
+  behance: ""
+  linkedin: ""
   reddit: https://www.reddit.com/
   vimeo: https://vimeo.com/showcase/9532811
 ---
