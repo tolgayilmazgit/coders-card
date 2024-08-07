@@ -10,7 +10,7 @@ country: Turkey
 isFreelancer: false
 cv: https://www.google.com
 socialMedia:
-  instagram: https://www.instagram.com/tolgayilmaz.k/
+  instagram: ""
   behance: https://www.behance.net/tolgayilmazk/
   linkedin: https://www.linkedin.com/in/tolgayilmaz12
   reddit: https://www.reddit.com/
